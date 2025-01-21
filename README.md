@@ -19,7 +19,7 @@ make data-driven decisions. This project addresses these needs by:
 ---
 
 ## StreamLit 
-You can watch the detailed walkthrough of the project in the [demo video](Redbus.mp4).
+You can watch the detailed walkthrough of the project in the [demo video](Redbus.mp4).Yet to be uploaded
 
 
 
